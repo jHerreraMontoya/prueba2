@@ -1,6 +1,7 @@
 RepositorioPrueba
-
-#Versión 1.0.0
+#versión 1.1
+estilos aplicados en las páginas
+#Versión 1.0
 
     src
     estilos
